@@ -3,7 +3,7 @@
 - 💻 PC Gamer. 
 - 👍 Interested in rougelike, moba, arpg.
 - 😳 Frontend Developer.
-- 🌱 Learning DDD.
+- 🌱 Learning Clean Architecture.
 - 💞️ I’m looking to collaborate on aghanim's labyrinth.
 - 📫 Ask me anything here 👉
 
