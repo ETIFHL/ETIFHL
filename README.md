@@ -4,7 +4,7 @@
 - 👍 Interested in rougelike, moba, arpg.
 - 😳 Frontend Developer.
 - 🌱 Learning Clean Architecture.
-- 💞️ I’m looking to collaborate on aghanim's labyrinth.
+- 💞️ I’m playing Elden Ring.
 - 📫 Ask me anything here 👉
 
 <!---
