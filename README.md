@@ -1,6 +1,5 @@
 ### Hi, I’m @ETIFHL
 
-- 💻 PC Gamer. 
 
 <!---
 ETIFHL/ETIFHL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
